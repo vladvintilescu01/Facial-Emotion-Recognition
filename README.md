@@ -49,6 +49,10 @@ Then start it:
 spyder
 ```
 
+### 5. Get the dataset
+
+The dataset is available via this link:https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge. After the download of this dataset you will need to put it in 'dataset' folder. This dataset is created by me and it is created in collaboration with a teacher for a better result.
+
 ## How to train a model
 
 1. In **Spyder**, select one of the models (e.g.:models/model_DenseNet121).  
