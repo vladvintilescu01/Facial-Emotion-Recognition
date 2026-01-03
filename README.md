@@ -51,7 +51,7 @@ spyder
 
 ### 5. Get the dataset
 
-The dataset is available via this link:https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge. After the download of this dataset you will need to put it in 'dataset' folder. This dataset is created by me and it is created in collaboration with a teacher for a better result.
+The dataset is available via this link:https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge. After the download of this dataset you will need to create a folder, named 'dataset' and to put here the dataset. This dataset is created by me and it is created in collaboration with a teacher for a better result.
 
 ## How to train a model
 
