@@ -11,7 +11,7 @@ else:
     for gpu in gpus:
         tf.config.experimental.set_memory_growth(gpu, True)
 
-model = load_model("DenseNet121_FER2013.h5")
+model = load_model("weights/DenseNet121_FER2013.h5")
 
 emotion_labels = ['Angry', 'Happy', 'Sad', 'Surprise', 'Neutral']
 

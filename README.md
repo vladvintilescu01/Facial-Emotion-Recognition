@@ -60,6 +60,6 @@ spyder
 ## How to use the demo app
 
 1. In **Spyder**, select the predict app (models/predict_real_time).  
-1. Select one of already weights that exists or you can use one of your weights created by you. (e.g.:weights/DenseNet121_FER2013.h5)
+1. Select one of already weights that exists(DenseNet or CustomCNN) or you can use one of your weights created by you. (e.g.:models/weights/DenseNet121_FER2013.h5)
 2. Hit **Run** in Spyder to start the demo app.  
 3. Right now the app can recognize: angry, happy, sad, surprise, neutral.
